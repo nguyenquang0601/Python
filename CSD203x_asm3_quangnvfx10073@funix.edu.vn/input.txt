@@ -1,0 +1,6 @@
+ID,Name,DayofBirth,Birthplace
+2,Nguyen Van Quang,06/01/2000,QB
+3,Tran Thi Thi,01/01/2001,ĐN
+1,Le Van Quy,03/01/2000,QB
+5,Nguyen Van Hi,04/01/2000,BG 
+4,Doan Bao Tran,01/01/2001,SG

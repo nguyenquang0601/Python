@@ -1,0 +1,7 @@
+ID | Title | Quantity | Price 
+P5 | d | 20 | 30.0
+P2 | fish | 12 | 504.0
+P4 | ss | 10 | 20.0
+P3 | Beer | 10 | 20.0
+K1 | Rice | 50 | 5000.0
+F4 | Fish | 20 | 200.0

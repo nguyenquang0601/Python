@@ -1,0 +1,6 @@
+Code,Name,Price,Quantity
+P5,d,30,20
+P2,fish,504,12
+P4,ss,20,10
+P3,Beer,20,10,
+K1,Rice,5000,50
